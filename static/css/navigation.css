@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+
+nav {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  background: #171c33;
+  color: white;
+}
+.nav-inner {
+  max-width: 1000px;
+  margin: auto;
+  width: 100%;
+}
+nav a {
+  float: right;
+  color: white;
+  text-decoration: none;
+  padding: 15px 5px;
+  height: 50px;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+nav a img {
+  height: 40px;
+}
+nav a.logo {
+  padding: 5px;
+  float: left;
+  font-size: 16px;
+  font-family: 'Dosis';
+}

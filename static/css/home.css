@@ -1,0 +1,27 @@
+.hero-banner {
+  background: #171c33;
+  color: white;
+}
+.hero-banner-inner {
+  margin: auto;
+  max-width: 700px;
+  display: flex;
+}
+.hero-banner h1 {
+  margin: 20px 20px 0 20px;
+  font-size: 30px;
+}
+.hero-banner .logo {
+  margin: 10px;
+}
+.hero-banner .content p {
+  padding: 25px;
+}
+.hero-banner .get-started {
+  background: white;
+  color: #171c33;
+  padding: 5px;
+  text-decoration: none;
+  border-radius: 2px;
+  display: inline-block;
+}

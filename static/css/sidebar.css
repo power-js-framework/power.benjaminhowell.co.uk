@@ -1,0 +1,19 @@
+#sidebar {
+  width: 200px;
+  height: 100%;
+  float: left;
+  border-right: 1px solid #ccc;
+  display: block;
+  position: fixed;
+  top: 50px;
+  left: 0;
+}
+#sidebar a {
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #000;
+}
+#sidebar a:hover {
+  background: #f3f3f3;
+}
